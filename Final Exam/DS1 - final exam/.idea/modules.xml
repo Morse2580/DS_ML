@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Assaignment 1/.idea/Assaignment 1.iml" filepath="$PROJECT_DIR$/../../Assaignment 1/.idea/Assaignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DS1 - final exam.iml" filepath="$PROJECT_DIR$/.idea/DS1 - final exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Decision Trees/.idea/Decision Trees.iml" filepath="$PROJECT_DIR$/../../Decision Trees/.idea/Decision Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../K means/.idea/K means.iml" filepath="$PROJECT_DIR$/../../K means/.idea/K means.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Linear Regression/.idea/Linear Regression.iml" filepath="$PROJECT_DIR$/../../Linear Regression/.idea/Linear Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Logistic Regression/.idea/Logistic Regression.iml" filepath="$PROJECT_DIR$/../../Logistic Regression/.idea/Logistic Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Polynomial Regression/.idea/Polynomial Regression.iml" filepath="$PROJECT_DIR$/../../Polynomial Regression/.idea/Polynomial Regression.iml" />
+    </modules>
+  </component>
+</project>

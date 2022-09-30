@@ -1,0 +1,20 @@
+#Let's see the frequency of the variable quality.
+#Convert variable to categorical.
+df =df.astype('int64').astype('category')
+
+#Counter.
+count=df['quality'].value_counts()
+
+count
+
+fixed acidity
+volatile acidity
+citric acid
+residual sugar
+chlorides
+free sulfur dioxide
+total sulfur dioxide
+density
+pH
+sulphates
+alcohol

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Linear Regression" />
+    <orderEntry type="module" module-name="Assaignment 1" />
+    <orderEntry type="module" module-name="Logistic Regression" />
+    <orderEntry type="module" module-name="Polynomial Regression" />
+    <orderEntry type="module" module-name="Decision Trees" />
+    <orderEntry type="module" module-name="K means" />
+  </component>
+</module>
